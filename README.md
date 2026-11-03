@@ -1,20 +1,26 @@
 
 <!-- HEADER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,100:dc2626&height=200&section=header&text=AMIRRTESH%20G&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20%7C%20SQL%20%7C%20Python&descAlignY=60&descSize=17" width="100%" />
-</p>
-
-<h2 align="center">Hi, I'm Amirrtesh G 👋</h2>
 
 <p align="center">
-  <b>Computer Science Engineering Student | Aspiring Data Analyst</b>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Amirrtesh">GitHub</a> •
-  <a href="https://www.linkedin.com/in/amirrtesh/">LinkedIn</a> •
-  <a href="https://www.instagram.com/call_me_amirrrr/">Instagram</a> •
-  <a href="https://codeforces.com/profile/Amirrtesh_G">Codeforces</a>
+  <a href="https://github.com/Amirrtesh">
+    <img src="https://skillicons.dev/icons?i=github" width="38" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/amirrtesh/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="38" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/call_me_amirrrr/">
+    <img src="https://skillicons.dev/icons?i=instagram" width="38" alt="Instagram"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/Amirrtesh_G">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codeforces.svg" width="38" alt="Codeforces"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:amirrteshsc11@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="38" alt="Email"/>
+  </a>
 </p>
 
 ---
