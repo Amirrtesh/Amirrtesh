@@ -1,93 +1,96 @@
 
-<div align="center">
-
-<!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:8B0000,100:000000&height=180&section=header&text=Amirrtesh%20G&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Science%20Engineering%20Student&descAlignY=58&descSize=17" width="100%"/>
-
-<!-- Social Icons -->
+<!-- HEADER -->
 <p align="center">
-  <a href="https://github.com/Amirrtesh">
-    <img src="https://cdn.simpleicons.org/github/ffffff" width="38" alt="GitHub"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/amirrtesh/">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="38" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/call_me_amirrrr/">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="38" alt="Instagram"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/Amirrtesh_G">
-    <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="38" alt="Codeforces"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:amirrteshsc11@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="38" alt="Gmail"/>
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,100:dc2626&height=200&section=header&text=AMIRRTESH%20G&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20%7C%20SQL%20%7C%20Python&descAlignY=60&descSize=17" width="100%" />
 </p>
 
-</div>
+<h2 align="center">Hi, I'm Amirrtesh G 👋</h2>
+
+<p align="center">
+  <b>Computer Science Engineering Student | Aspiring Data Analyst</b>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Amirrtesh">GitHub</a> •
+  <a href="https://www.linkedin.com/in/amirrtesh/">LinkedIn</a> •
+  <a href="https://www.instagram.com/call_me_amirrrr/">Instagram</a> •
+  <a href="https://codeforces.com/profile/Amirrtesh_G">Codeforces</a>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech Computer Science Engineering student at **Amrita Vishwa Vidyapeetham, Nagercoil**
-- 💻 Interested in **Data Analytics, SQL, Python and Machine Learning**
-- 🌱 Currently improving my programming and problem-solving skills
-- 🔍 Interested in building practical projects and learning new technologies
-- ⚽ Football player – National Level U-14 squad
-- 🏐 Interested in sports and teamwork
+I'm a Computer Science and Engineering undergraduate at **Amrita Vishwa Vidyapeetham, Nagercoil Campus**.
+
+- 🎓 B.Tech CSE (2024–2028)
+- 💻 Interested in SQL, Python and Software Development
+- 📊 Exploring Data Analytics and Data Science
+- 🤖 Learning Machine Learning
+- ⚽ Football and Volleyball enthusiast
+
+I enjoy learning new technologies, solving problems and building practical projects.
 
 ---
 
-## 🛠️ Technical Skills
+## ⚡ Technical Skills
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,html,css,mysql,git,github,vscode" />
+<p>
+  <img src="https://skillicons.dev/icons?i=python,mysql,html,css,git,github,vscode&theme=dark" />
 </p>
 
+- **Programming:** Python
+- **Database:** SQL, MySQL
+- **Web:** HTML, CSS
+- **Tools:** Git, GitHub, VS Code
+
 ---
 
-## 📂 Projects
+## 🚀 Projects
+
+A few projects I've worked on:
 
 | Project | Description |
 |---|---|
-| [Password Manager](https://github.com/Amirrtesh/password-manager) | A simple application for managing passwords |
-| [Smart Food Donation](https://github.com/Amirrtesh/smart-food-donation) | A project focused on connecting food donors and recipients |
-| [Student Management System](https://github.com/Amirrtesh/Projects) | A system for managing student information |
+| Password Manager | Python-based password management |
+| Smart Food Donation | Food donation management system |
+| Student Management | Student record management |
+
+<p>
+  <a href="https://github.com/Amirrtesh/Projects">
+    <img src="https://img.shields.io/badge/View%20All%20Projects-DC2626?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## 📚 Currently Learning
 
-- Advanced SQL and Database Management
-- Python Programming
+- Advanced SQL and database management
+- Python programming
 - Data Analytics
 - Machine Learning
-- Data Structures and Algorithms
+- Problem Solving
 
 ---
 
-## 📊 GitHub Statistics
+## 💻 GitHub Statistics
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Amirrtesh&show_icons=true&theme=dark&hide_border=true&title_color=FF3333&icon_color=FF3333&text_color=FFFFFF&bg_color=000000" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amirrtesh&layout=compact&theme=dark&hide_border=true&title_color=FF3333&text_color=FFFFFF&bg_color=000000" height="165"/>
-
-<img src="https://streak-stats.demolab.com?user=Amirrtesh&theme=dark&hide_border=true&background=000000&ring=FF3333&fire=FF3333&currStreakLabel=FF3333" width="70%"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Amirrtesh&show_icons=true&theme=dark&bg_color=050505&title_color=ef4444&icon_color=ef4444&border_color=dc2626" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Amirrtesh&layout=compact&theme=dark&bg_color=050505&title_color=ef4444&border_color=dc2626" width="42%" />
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
+  <b>Learn • Build • Improve</b>
+</p>
 
-### 💡 Keep Learning | Keep Building | Keep Growing
+<p align="center">
+  Thanks for visiting my profile! 
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:8B0000,100:000000&height=100&section=footer" width="100%"/>
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:dc2626,100:050505&height=100&section=footer" width="100%" />
+</p>
